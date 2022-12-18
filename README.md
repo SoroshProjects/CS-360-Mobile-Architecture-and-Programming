@@ -10,4 +10,5 @@
 5. Considering the full app design and development process, from initial planning to finalization, where did you have to innovate to overcome a challenge?
 - The user interface was where I had to make some major adjustments because I had already developed the code, and starting from the beginning would be a total waste of time. After testing on multiple devices I discovered that the user interface was not consistent and produced different results on different devices. Therefore, I had to recreate and find a new solution to prevent being forced to start from scratch.
 6. In what specific component from your mobile app were you particularly successful in demonstrating your knowledge, skills, and experience?
-- OnClickListener was one specific component that I was able to use without any problem. I would also mention that SQLite was another area that I implemented without any issues.
+- OnClickListener was one specific component that I was able to use without any problem. I would also mention that SQLite was another area that I implemented without any issues. Facing some issues in the initial user interface design taught me some valuable lessons and I would consider user interface design as another area of demonstrating my knowledge, skills, and experience.
+
